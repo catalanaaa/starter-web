@@ -19,4 +19,4 @@ Please fork this repo and then issue PR
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ### Copyright
-2023 Git.Training
+2023 Git.Training aLL RIGHTS RESERVE
