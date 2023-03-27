@@ -12,6 +12,8 @@ As stated above, the main purpose is to provide examples for Git training demos.
 
 ## Contribute
 
+Please fork this repo and then issue PR
+
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
