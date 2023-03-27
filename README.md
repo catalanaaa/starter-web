@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use Git and GitHub together. Ahoy! Me add line for rebasing.
+This is a simple website project for showing how to use Git and GitHub together. Ahoy! Me add line for rebasing, MORE CHANGE FROM MYFEATURE BRANCH.
 
 ## Introduction
 
