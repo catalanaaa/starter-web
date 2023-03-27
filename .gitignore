@@ -1,3 +1,12 @@
 log/
 hipster2.txt
 *.orig
+.simple.html.swp
+.simple_BASE_3574.html.swp
+.simple_LOCAL_3574.html.swp
+.simple_REMOTE_3574.html.swp
+simple_BACKUP_3574.html
+simple_BASE_3574.html
+simple_LOCAL_3574.html
+simple_REMOTE_3574.html
+
